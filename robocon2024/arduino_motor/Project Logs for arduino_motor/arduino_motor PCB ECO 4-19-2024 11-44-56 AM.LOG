@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=Net*5_15 Pin=U1-1
+Removed Pin From Net: NetName=Net*5_12 Pin=U1-9
+Change Component Designator: OldDesignator=R  NewDesignator=R
+Add Component: Footprint Not Found PCBComponent_1
+Added Pin To Net: NetName=Net*5_12 Pin=U1-1
+Added Pin To Net: NetName=Net*5_15 Pin=U1-9
+Change Net Name : Old Net Name=Net*5_7 New Net Name=Net5K_1
+Change Net Name : Old Net Name=NetD2_2 New Net Name=NetR3_1
+Added Pin To Net: NetName=Net*5_16 Pin=*5-16
+Added Pin To Net: NetName=Net*5_16 Pin=U1-15
+Added Net: Name=Net*5_16
+Added Pin To Net: NetName=Net*5_17 Pin=*5-17
+Added Pin To Net: NetName=Net*5_17 Pin=U1-10
+Added Net: Name=Net*5_17
+Added Member To Class: ClassName=arduino_motor Member=Component *2 Component_1
+Added Member To Class: ClassName=arduino_motor Member=Component *3 capacitor
+Added Member To Class: ClassName=arduino_motor Member=Component *4 capacitor
+Added Member To Class: ClassName=arduino_motor Member=Component *5 Component_1
+Added Member To Class: ClassName=arduino_motor Member=Component *6 capacitor
+Added Member To Class: ClassName=arduino_motor Member=Component *7 Component_1
+Added Member To Class: ClassName=arduino_motor Member=Component *8 Component_1
+Added Member To Class: ClassName=arduino_motor Member=Component *9 capacitor
+Added Member To Class: ClassName=arduino_motor Member=Component *10 capacitor
+Added Member To Class: ClassName=arduino_motor Member=Component *? capacitor
+Added Member To Class: ClassName=arduino_motor Member=Component * Component_1
+Added Member To Class: ClassName=arduino_motor Member=Component 5K MRS25000C1001FCT00
+Added Member To Class: ClassName=arduino_motor Member=Component D1 151053GS03000
+Added Member To Class: ClassName=arduino_motor Member=Component R1 MRS25000C1001FCT00
+Added Member To Class: ClassName=arduino_motor Member=Component R2 MRS25000C1001FCT00
+Added Member To Class: ClassName=arduino_motor Member=Component R3 MRS25000C1001FCT00
+Added Member To Class: ClassName=arduino_motor Member=Component R4 MRS25000C1001FCT00
+Added Member To Class: ClassName=arduino_motor Member=Component R5 MRS25000C1001FCT00
+Added Member To Class: ClassName=arduino_motor Member=Component R 151053GS03000
+Added Member To Class: ClassName=arduino_motor Member=Component R RES
+Added Member To Class: ClassName=arduino_motor Member=Component SW? EVQ-PAG07K
+Added Member To Class: ClassName=arduino_motor Member=Component U1 L293D
+Added Member To Class: ClassName=arduino_motor Member=Component U2 LM317T
+Added Member To Class: ClassName=arduino_motor Member=Component Y1 FOXSLF/160-20

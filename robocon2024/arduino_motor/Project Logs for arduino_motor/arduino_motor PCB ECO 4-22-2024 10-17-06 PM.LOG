@@ -1,0 +1,4 @@
+Add Component: Footprint Not Found PCBComponent_1
+Add Net: Net with name "Net330R_2" already exists
+Added Member To Class: ClassName=arduino_motor Member=Component 330R MRS25000C1001FCT00
+Added Member To Class: ClassName=arduino_motor Member=Component R RES

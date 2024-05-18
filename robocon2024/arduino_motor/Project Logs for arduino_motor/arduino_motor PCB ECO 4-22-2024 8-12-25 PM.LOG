@@ -1,0 +1,3 @@
+Add Component: Footprint Not Found PCBComponent_1
+Added Pin To Net: NetName=Net*5_17 Pin=U1-15
+Added Member To Class: ClassName=arduino_motor Member=Component R RES

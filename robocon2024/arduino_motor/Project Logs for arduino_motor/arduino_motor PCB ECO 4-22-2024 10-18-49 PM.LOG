@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=330R NewDesignator=330R1
+Add Component: Footprint Not Found PCBComponent_1
+Change Net Name : Old Net Name=Net330R_1 New Net Name=Net330R1_1
+Added Pin To Net: NetName=Net330R1_2 Pin=330R1-2
+Added Pin To Net: NetName=Net330R1_2 Pin=SW1-A
+Added Pin To Net: NetName=Net330R1_2 Pin=SW1-A'
+Added Net: Name=Net330R1_2
+Added Member To Class: ClassName=arduino_motor Member=Component 330R1 MRS25000C1001FCT00
+Added Member To Class: ClassName=arduino_motor Member=Component R RES

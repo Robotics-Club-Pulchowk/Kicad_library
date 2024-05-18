@@ -1,0 +1,9 @@
+Added Component: Designator=*?(PCBComponent_1)
+Add Component: Footprint Not Found PCBComponent_1
+Added Pin To Net: NetName=GND Pin=*?-2
+Added Pin To Net: NetName=Net*?_1 Pin=*?-1
+Added Pin To Net: NetName=Net*?_1 Pin=R2-2
+Added Pin To Net: NetName=Net*?_1 Pin=U1-8
+Added Net: Name=Net*?_1
+Added Member To Class: ClassName=arduino_motor Member=Component *? capacitor
+Add Class Member: Failed to add class member : Component R RES

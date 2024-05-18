@@ -1,0 +1,38 @@
+Added Component: Designator=*1(PCBComponent_1)
+Added Component: Designator=*2(PCBComponent_1)
+Added Component: Designator=*3(PCBComponent_1)
+Added Component: Designator=*4(PCBComponent_1)
+Added Component: Designator=*6(PCBComponent_1)
+Added Component: Designator=*8(PCBComponent_1)
+Added Component: Designator=*9(PCBComponent_1)
+Added Component: Designator=*10(PCBComponent_1)
+Add Component: Footprint Not Found PCBComponent_1
+Added Pin To Net: NetName=Net*1_1 Pin=*1-1
+Added Pin To Net: NetName=GND Pin=*1-2
+Added Pin To Net: NetName=Net*2_1 Pin=*2-1
+Added Pin To Net: NetName=Net*2_2 Pin=*2-2
+Added Pin To Net: NetName=Net*3_1 Pin=*3-1
+Added Pin To Net: NetName=GND Pin=*3-2
+Added Pin To Net: NetName=Net*4_1 Pin=*4-1
+Added Pin To Net: NetName=GND Pin=*4-2
+Added Pin To Net: NetName=Net*1_1 Pin=*6-1
+Added Pin To Net: NetName=GND Pin=*6-2
+Added Pin To Net: NetName=Net*8_1 Pin=*8-1
+Added Pin To Net: NetName=Net*8_2 Pin=*8-2
+Added Pin To Net: NetName=Net*5_7 Pin=*9-1
+Added Pin To Net: NetName=GND Pin=*9-2
+Added Pin To Net: NetName=Net*5_7 Pin=*10-1
+Added Pin To Net: NetName=GND Pin=*10-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Added Member To Class: ClassName=arduino_motor Member=Component *1 Component_1
+Added Member To Class: ClassName=arduino_motor Member=Component *2 Component_1
+Added Member To Class: ClassName=arduino_motor Member=Component *3 capacitor
+Added Member To Class: ClassName=arduino_motor Member=Component *4 capacitor
+Added Member To Class: ClassName=arduino_motor Member=Component *6 capacitor
+Added Member To Class: ClassName=arduino_motor Member=Component *8 Component_1
+Added Member To Class: ClassName=arduino_motor Member=Component *9 capacitor
+Added Member To Class: ClassName=arduino_motor Member=Component *10 capacitor
+Added Member To Class: ClassName=arduino_motor Member=Component R4 MRS25000C1001FCT00
+Add Class Member: Failed to add class member : Component R RES
+Add Class Member: Failed to add class member : Component S1 Push Button Normally Closed

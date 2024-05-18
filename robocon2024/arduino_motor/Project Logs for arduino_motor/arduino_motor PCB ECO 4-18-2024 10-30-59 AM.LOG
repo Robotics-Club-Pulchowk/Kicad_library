@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=Net*1_1 Pin=*1-1
+Removed Pin From Net: NetName=GND Pin=*1-2
+Removed Member From Class: ClassName=arduino_motor Member=*1
+Added Component: Designator=*(PCBComponent_1)
+Add Component: Footprint Not Found PCBComponent_1
+Added Pin To Net: NetName=Net*1_1 Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-2
+Change Net Name : Old Net Name=Net*1_1 New Net Name=Net*6_1
+Added Member To Class: ClassName=arduino_motor Member=Component * Component_1
+Add Class Member: Failed to add class member : Component R RES

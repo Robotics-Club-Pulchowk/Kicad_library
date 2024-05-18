@@ -1,0 +1,42 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Add Component: Footprint Not Found PCBComponent_1
+Add Pin To Net: Unknown Pin: Pin *1-1
+Add Pin To Net: Unknown Pin: Pin *1-2
+Add Pin To Net: Unknown Pin: Pin *2-1
+Add Pin To Net: Unknown Pin: Pin *3-1
+Add Pin To Net: Unknown Pin: Pin *3-2
+Add Pin To Net: Unknown Pin: Pin *4-1
+Add Pin To Net: Unknown Pin: Pin *4-2
+Add Pin To Net: Unknown Pin: Pin *6-1
+Add Pin To Net: Unknown Pin: Pin *6-2
+Add Pin To Net: Unknown Pin: Pin *8-1
+Add Pin To Net: Unknown Pin: Pin *8-2
+Add Pin To Net: Unknown Pin: Pin *9-1
+Add Pin To Net: Unknown Pin: Pin *9-2
+Add Pin To Net: Unknown Pin: Pin *10-1
+Add Pin To Net: Unknown Pin: Pin *10-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR2_2
+Added Pin To Net: NetName=Net*2_2 Pin=U1-6
+Added Net: Name=Net*2_2
+Add Class Member: Failed to add class member : Component *1 Component_1
+Add Class Member: Failed to add class member : Component *2 Component_1
+Add Class Member: Failed to add class member : Component *3 capacitor
+Add Class Member: Failed to add class member : Component *4 capacitor
+Add Class Member: Failed to add class member : Component *6 capacitor
+Add Class Member: Failed to add class member : Component *8 Component_1
+Add Class Member: Failed to add class member : Component *9 capacitor
+Add Class Member: Failed to add class member : Component *10 capacitor
+Added Member To Class: ClassName=arduino_motor Member=Component R1 MRS25000C1001FCT00
+Added Member To Class: ClassName=arduino_motor Member=Component R2 MRS25000C1001FCT00
+Added Member To Class: ClassName=arduino_motor Member=Component R3 MRS25000C1001FCT00
+Added Member To Class: ClassName=arduino_motor Member=Component R5 MRS25000C1001FCT00
+Added Member To Class: ClassName=arduino_motor Member=Component R6 MRS25000C1001FCT00
+Add Class Member: Failed to add class member : Component R RES
+Add Class Member: Failed to add class member : Component S1 Push Button Normally Closed

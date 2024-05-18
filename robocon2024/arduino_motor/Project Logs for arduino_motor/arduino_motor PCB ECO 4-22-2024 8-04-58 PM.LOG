@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=Net*5_17 Pin=U1-10
+Removed Pin From Net: NetName=Net*5_16 Pin=U1-15
+Change Component Footprint: Designator=D1 Old Footprint=WL-TMRW_D5.8H11.7 New Footprint=WL-TMRW_D5.8H11.7
+Change Component Footprint: Designator=R Old Footprint=WL-TMRW_D5.8H11.7 New Footprint=WL-TMRW_D5.8H11.7
+Add Component: Footprint Not Found PCBComponent_1
+Added Pin To Net: NetName=Net*5_16 Pin=U1-10
+Added Pin To Net: NetName=NetU1_15 Pin=U1-15
+Added Net: Name=NetU1_15
+Added Member To Class: ClassName=arduino_motor Member=Component R RES

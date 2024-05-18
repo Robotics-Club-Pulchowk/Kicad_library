@@ -1,0 +1,51 @@
+Change Component Footprint: Designator=D1 Old Footprint=WL-TMRW_D5.8H11.7 New Footprint=WL-TMRW_D5.8H11.7
+Change Component Footprint: Designator=D2 Old Footprint=WL-TMRW_D5.8H11.7 New Footprint=WL-TMRW_D5.8H11.7
+Add Component: Footprint Not Found PCBComponent_1
+Add Component: Footprint Not Found PCBComponent_1
+Add Component: Footprint Not Found PCBComponent_1
+Add Component: Footprint Not Found PCBComponent_1
+Add Component: Footprint Not Found PCBComponent_1
+Add Component: Footprint Not Found PCBComponent_1
+Add Pin To Net: Unknown Pin: Pin *1-1
+Add Pin To Net: Unknown Pin: Pin *1-2
+Add Pin To Net: Unknown Pin: Pin *3-1
+Add Pin To Net: Unknown Pin: Pin *3-2
+Add Pin To Net: Unknown Pin: Pin *4-1
+Add Pin To Net: Unknown Pin: Pin *4-2
+Add Pin To Net: Unknown Pin: Pin *6-1
+Add Pin To Net: Unknown Pin: Pin *6-2
+Add Pin To Net: Unknown Pin: Pin *8-1
+Add Pin To Net: Unknown Pin: Pin *8-2
+Add Pin To Net: Unknown Pin: Pin *9-1
+Add Pin To Net: Unknown Pin: Pin *9-2
+Add Pin To Net: Unknown Pin: Pin *10-1
+Add Pin To Net: Unknown Pin: Pin *10-2
+Add Pin To Net: Unknown Pin: Pin R-1
+Add Pin To Net: Unknown Pin: Pin R-2
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Class Member: Failed to add class member : Component *1 Component_1
+Add Class Member: Failed to add class member : Component *2 Component_1
+Add Class Member: Failed to add class member : Component *3 capacitor
+Add Class Member: Failed to add class member : Component *4 capacitor
+Add Class Member: Failed to add class member : Component *6 capacitor
+Add Class Member: Failed to add class member : Component *8 Component_1
+Add Class Member: Failed to add class member : Component *9 capacitor
+Add Class Member: Failed to add class member : Component *10 capacitor
+Add Class Member: Failed to add class member : Component R? RES
+Add Class Member: Failed to add class member : Component R? RES
+Add Class Member: Failed to add class member : Component R? RES
+Add Class Member: Failed to add class member : Component R? RES
+Add Class Member: Failed to add class member : Component R? RES
+Add Class Member: Failed to add class member : Component R RES
+Add Class Member: Failed to add class member : Component S1 Push Button Normally Closed
