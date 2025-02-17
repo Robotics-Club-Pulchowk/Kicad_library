@@ -318,7 +318,7 @@
 		(layer "F.Fab")
 		(uuid "79ed1b34-489e-4e3f-a7fe-9c822fbe313b")
 	)
-	(pad "+5V" thru_hole oval
+	(pad "1" thru_hole oval
 		(at 0 0)
 		(size 2 2.4)
 		(drill 0.762)
@@ -326,7 +326,7 @@
 		(remove_unused_layers no)
 		(uuid "ca54544a-3ef2-486d-b2c5-dde6240a7862")
 	)
-	(pad "GND" thru_hole oval
+	(pad "2" thru_hole oval
 		(at 2.5 0)
 		(size 2 2.4)
 		(drill 0.762)
@@ -334,7 +334,7 @@
 		(remove_unused_layers no)
 		(uuid "ee6dfae2-b780-44fd-b9d8-1b44a2486be4")
 	)
-	(pad "RX" thru_hole oval
+	(pad "3" thru_hole oval
 		(at 5 0)
 		(size 2 2.4)
 		(drill 0.762)
@@ -342,7 +342,7 @@
 		(remove_unused_layers no)
 		(uuid "8245a17e-6392-4c1c-87e7-b62e8dc6e72a")
 	)
-	(pad "TX" thru_hole oval
+	(pad "4" thru_hole oval
 		(at 7.5 0)
 		(size 2 2.4)
 		(drill 0.762)
