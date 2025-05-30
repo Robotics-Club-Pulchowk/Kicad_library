@@ -29,7 +29,7 @@
 		)
 	)
 	(property "Footprint" ""
-		(at 0 0 0)
+		(at -0.45 -0.075 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
@@ -42,7 +42,7 @@
 		)
 	)
 	(property "Datasheet" ""
-		(at 0 0 0)
+		(at -0.45 -0.075 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
@@ -55,7 +55,7 @@
 		)
 	)
 	(property "Description" ""
-		(at 0 0 0)
+		(at -0.45 -0.075 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
@@ -69,8 +69,8 @@
 	)
 	(attr through_hole)
 	(fp_line
-		(start 10.5 -7.45)
-		(end 10.5 7.55)
+		(start 10.05 -7.525)
+		(end 10.05 7.475)
 		(stroke
 			(width 0.3)
 			(type default)
@@ -79,8 +79,8 @@
 		(uuid "7d1ca21d-30bf-4219-b92b-bb3e629e98b6")
 	)
 	(fp_rect
-		(start 0 -7.45)
-		(end 21 7.55)
+		(start -0.45 -7.525)
+		(end 20.55 7.475)
 		(stroke
 			(width 0.3)
 			(type default)
@@ -103,16 +103,16 @@
 	)
 	(pad "1" thru_hole oval
 		(at 5.7 0)
-		(size 2.6 2.4)
-		(drill oval 1.2)
+		(size 3 2.5)
+		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "0452922d-7409-4b08-99a3-587a6cda52c0")
 	)
 	(pad "2" thru_hole oval
-		(at 15.7 0)
-		(size 2.6 2.4)
-		(drill oval 1.2)
+		(at 14.975 0)
+		(size 3 2.5)
+		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "1a850621-4f65-4b6b-9cd3-ae5943168bc4")
