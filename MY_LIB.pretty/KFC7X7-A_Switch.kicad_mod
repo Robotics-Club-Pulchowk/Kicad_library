@@ -69,8 +69,8 @@
 	)
 	(attr through_hole)
 	(fp_line
-		(start 2.85 2.355)
-		(end 2.85 4.345)
+		(start 3.275 2.355)
+		(end 3.275 4.345)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -79,8 +79,8 @@
 		(uuid "756354e6-b12d-4a43-b8e4-495baf2b83a6")
 	)
 	(fp_line
-		(start 5.79 2.365)
-		(end 5.79 4.325)
+		(start 5.4 2.37)
+		(end 5.4 4.33)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -89,8 +89,8 @@
 		(uuid "3cc70670-ef4e-4b12-b8f0-dad362d398ae")
 	)
 	(fp_line
-		(start 5.79 3.345)
-		(end 2.85 3.35)
+		(start 5.4 3.35)
+		(end 3.275 3.35)
 		(stroke
 			(width 0.1)
 			(type default)
