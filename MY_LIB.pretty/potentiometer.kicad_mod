@@ -80,6 +80,45 @@
 		(layer "F.SilkS")
 		(uuid "2810f2bf-e4d9-4060-a325-f9528477cab7")
 	)
+	(fp_text user "OUT"
+		(at 7.425 6.65 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "55de2a6a-cdb1-4718-916d-df11c8390aba")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "VCC"
+		(at 2.1 6.675 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "d505376c-3ddc-48c8-92f2-fa9c7f461992")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "GND"
+		(at 12.225 6.8 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "fc0f1320-695c-4585-8963-b1074765b27d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(pad "1" thru_hole oval
 		(at 1.58 1.87)
 		(size 2 2.4)
