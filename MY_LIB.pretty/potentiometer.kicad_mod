@@ -88,7 +88,7 @@
 			(type default)
 		)
 		(fill none)
-		(layer "Margin")
+		(layer "F.CrtYd")
 		(uuid "0639f390-773d-4952-aa31-479c6ca518ad")
 	)
 	(fp_text user "OUT"
